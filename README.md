@@ -10,6 +10,7 @@ make
 ### Usage
 
 Only one function is exported:
+
 ```
 #include "isbenprocrastinating.h"
 
