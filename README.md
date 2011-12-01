@@ -15,7 +15,7 @@ Only one function is exported:
 #include "isbenprocrastinating.h"
 
 void main(void) {
-	if is_ben_procrastinating(time()) {
+	if (is_ben_procrastinating(time())) {
 		printf("Lazy sod");
 	} else {
 		printf("Workin hard");
